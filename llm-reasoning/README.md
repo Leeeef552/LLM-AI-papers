@@ -52,7 +52,8 @@ Papers that are related to "reasoning" in llm
 3. "Or,"
 4. "Another angle,":
 5. "What if we...?" → Hypothesis generation.
-6. "Branching out..." → Tree-like exploration 
+6. "Branching out..." → Tree-like exploration
+7. "Another point is"
 
 
 ### Action / Establishment:
@@ -92,7 +93,8 @@ Papers that are related to "reasoning" in llm
 ### Convergence:
 1. "So, putting this together"
 2. "Putting it all together"
-3. "Putting it all together..." → Integration of ideas.
+3. "Putting this all together..." → Integration of ideas.
 4. "In summary..." → Abstraction/simplification.
 5. "The overarching theme is..." → High-level synthesis.
 6. "Thus, we conclude..." → Final decision-making.
+7. "Therefore"
